@@ -1,0 +1,3 @@
+# Ignore all .txt and .json files in any directory
+**/*.txt
+**/*.json
